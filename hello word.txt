@@ -2,3 +2,4 @@ println("Hello word");
 println("Hello all");
 class Hello;
 print ("Hello my dear friends");
+add.string ("1");
